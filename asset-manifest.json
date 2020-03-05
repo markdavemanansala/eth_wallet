@@ -1,0 +1,16 @@
+{
+  "main.css": "/eth_wallet/static/css/main.6e1577b1.chunk.css",
+  "main.js": "/eth_wallet/static/js/main.9f339437.chunk.js",
+  "main.js.map": "/eth_wallet/static/js/main.9f339437.chunk.js.map",
+  "static/css/1.f4a7c808.chunk.css": "/eth_wallet/static/css/1.f4a7c808.chunk.css",
+  "static/js/1.a22f5209.chunk.js": "/eth_wallet/static/js/1.a22f5209.chunk.js",
+  "static/js/1.a22f5209.chunk.js.map": "/eth_wallet/static/js/1.a22f5209.chunk.js.map",
+  "runtime~main.js": "/eth_wallet/static/js/runtime~main.b53dc6ce.js",
+  "runtime~main.js.map": "/eth_wallet/static/js/runtime~main.b53dc6ce.js.map",
+  "static/css/1.f4a7c808.chunk.css.map": "/eth_wallet/static/css/1.f4a7c808.chunk.css.map",
+  "static/media/tbplogo.png": "/eth_wallet/static/media/tbplogo.10085af7.png",
+  "static/css/main.6e1577b1.chunk.css.map": "/eth_wallet/static/css/main.6e1577b1.chunk.css.map",
+  "index.html": "/eth_wallet/index.html",
+  "precache-manifest.cd2522a6cd58cfcd9634ed8d1891bba3.js": "/eth_wallet/precache-manifest.cd2522a6cd58cfcd9634ed8d1891bba3.js",
+  "service-worker.js": "/eth_wallet/service-worker.js"
+}
